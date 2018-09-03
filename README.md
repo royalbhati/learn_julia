@@ -8,3 +8,4 @@ Julia Tutorials in jupyter notebooks
 
 * Mathematical operation and Elementary functions
 * Control flow
+* Functions
