@@ -3,4 +3,8 @@ Julia Tutorials in jupyter notebooks
 
 1 : Basic of Julia
 
-**More to Come**
+
+**TO DO :**
+
+* Mathematical operation and Elementary functions
+* Control flow
